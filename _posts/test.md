@@ -1,3 +1,23 @@
+---
+title: Linux Fundamentals Part 2
+published: true
+---
+
+Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
+
+[Link to another page](another-page).
+
+There should be whitespace between paragraphs.
+
+There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+
+
+
+
+
+
+
+
 # [*Linux Fundamentals Part 2*](https://tryhackme.com/room/linux2) write-up
 ## This room is the second part in the Linux Fundamental rooms designed to teach you about various Linux concepts, and in-built tools. This room covers the following topics:
 
